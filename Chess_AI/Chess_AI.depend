@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1499980218 source:c:\users\tim\documents\github\chess-ai\chess_ai\main.cpp
+	"libraries.h"
+	"bitboards.h"
+
+1499886703 c:\users\tim\documents\github\chess-ai\chess_ai\libraries.h
+	<iostream>
+	<vector>
+	<cmath>
+
+1499895213 c:\users\tim\documents\github\chess-ai\chess_ai\bitboards.h
+	"libraries.h"
+
+1499980773 source:c:\users\tim\documents\github\chess-ai\chess_ai\bitboards.cpp
+	"bitboards.h"
+
